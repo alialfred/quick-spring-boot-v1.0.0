@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.alisoftclub.frameworks</groupId>
+        <artifactId>quick-spring-boot-data</artifactId>
+        <version>1.0.0</version>
+    </parent>
+    <artifactId>quick-spring-boot-data-arango</artifactId>
+    <packaging>jar</packaging>
+    
+    <dependencies>
+        <dependency>
+            <groupId>com.alisoftclub.frameworks</groupId>
+            <artifactId>quick-spring-boot-rest-service</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.arangodb</groupId>
+            <artifactId>arangodb-spring-data</artifactId>
+            <version>3.2.1</version>
+        </dependency>
+    </dependencies>
+    
+</project>

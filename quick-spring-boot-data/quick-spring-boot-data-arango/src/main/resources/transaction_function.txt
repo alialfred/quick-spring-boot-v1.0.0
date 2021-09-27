@@ -1,0 +1,45 @@
+function (entities) {
+    var db = require('internal').db;
+    var collection = db.%1$s;
+    var collectionName = '%1$s';
+
+    var response = [];
+
+    for(e in entities){
+        var entity = entities[e];
+
+        if (!entity.id) {
+            var ix;
+            if(db.key_indexes.exists(collectionName)){
+                ix = db.key_indexes.document(collectionName);
+            }else{
+                ix = {_key: collectionName, id: 0};
+            }
+//            db.key_indexes.toArray().forEach(function(doc) {
+//                if(doc._key == collectionName){
+//                   ix = doc;
+//                }
+//            });
+//            if (!ix) {
+//                ix = {_key: collectionName, id: 0};
+//            }
+
+            ix.id = entity.id = ix.id + 1;
+            if(ix._id){
+                db.key_indexes.update(ix, ix);
+            }else {
+                db.key_indexes.save(ix);
+            }
+        }
+        if(entity._id){
+            var old = collection.document(entity._id);
+            db.logs.insert({timeStamp: new Date(), type: collectionName, data: old});
+            entity = Object.assign(old, entity);
+            collection.update(entity, entity);
+        }else{
+            entity = Object.assign(entity, collection.save(entity));
+        }
+        response.push(entity);
+    }
+    return response;
+}

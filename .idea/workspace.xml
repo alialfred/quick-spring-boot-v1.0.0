@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34e8e59f-f598-4f20-9a7a-4329c5ca58f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S8EBu9KDahtxe0YQPV2LqY7v3S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.alisoftclub.frameworks.qsb.common" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alisoftclub.frameworks.qsb.dto.converter" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="quick-spring-boot-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alisoftclub.frameworks.qsb.config.server.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34e8e59f-f598-4f20-9a7a-4329c5ca58f6" name="Default Changelist" comment="" />
+      <created>1570936691084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570936691084</updated>
+      <workItem from="1570936696019" duration="1007000" />
+      <workItem from="1570942370113" duration="148000" />
+      <workItem from="1571153721138" duration="954000" />
+      <workItem from="1571857947685" duration="342000" />
+      <workItem from="1571858610652" duration="1948000" />
+      <workItem from="1571860576054" duration="451000" />
+      <workItem from="1571924410045" duration="812000" />
+      <workItem from="1572018370082" duration="642000" />
+      <workItem from="1572027664845" duration="1117000" />
+      <workItem from="1573575447144" duration="2411000" />
+      <workItem from="1574686180522" duration="4766000" />
+      <workItem from="1574878618390" duration="425000" />
+      <workItem from="1574879907026" duration="474000" />
+      <workItem from="1575206003603" duration="1026000" />
+      <workItem from="1575303365924" duration="2299000" />
+      <workItem from="1575461662085" duration="1315000" />
+      <workItem from="1575623747570" duration="636000" />
+      <workItem from="1575910425563" duration="1236000" />
+      <workItem from="1575912165914" duration="386000" />
+      <workItem from="1575976711250" duration="3479000" />
+      <workItem from="1576524752034" duration="1097000" />
+      <workItem from="1576526365899" duration="174000" />
+      <workItem from="1576620151715" duration="867000" />
+      <workItem from="1580328306736" duration="664000" />
+      <workItem from="1580668358036" duration="445000" />
+      <workItem from="1582311571221" duration="169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1575910527116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1575910527116" />
+    <state x="428" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575980069329">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="428" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1575980069329" />
+  </component>
+</project>

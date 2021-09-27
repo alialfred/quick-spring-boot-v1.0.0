@@ -1,0 +1,25 @@
+spring:
+  profiles:
+    active: default
+  datasource:
+# ===============================
+# CONNECTION POOL
+# ===============================
+    type: com.zaxxer.hikari.HikariDataSource
+# ===============================
+# DATABASE
+# ===============================
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:test;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+    username: sa
+    password: 
+# ===============================
+# JPA / HIBERNATE
+# ===============================
+  jpa:
+    hibernate:
+      dialect: org.hibernate.dialect.H2Dialect
+      show-sql: true
+      format-sql: true
+      ddl-auto: update
+      current_session_context_class: org.springframework.orm.hibernate5.SpringSessionContext

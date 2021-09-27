@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/examples/arango-example/arango-example.iml" filepath="$PROJECT_DIR$/examples/arango-example/arango-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/hibernate-example/hibernate-example.iml" filepath="$PROJECT_DIR$/examples/hibernate-example/hibernate-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-dynamic-reports/quick-dynamic-reports.iml" filepath="$PROJECT_DIR$/quick-dynamic-reports/quick-dynamic-reports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-spring-boot.iml" filepath="$PROJECT_DIR$/quick-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-spring-boot-common/quick-spring-boot-common.iml" filepath="$PROJECT_DIR$/quick-spring-boot-common/quick-spring-boot-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-spring-boot-config-server/quick-spring-boot-config-server.iml" filepath="$PROJECT_DIR$/quick-spring-boot-config-server/quick-spring-boot-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-spring-boot-data/quick-spring-boot-data.iml" filepath="$PROJECT_DIR$/quick-spring-boot-data/quick-spring-boot-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-spring-boot-data/quick-spring-boot-data-arango/quick-spring-boot-data-arango.iml" filepath="$PROJECT_DIR$/quick-spring-boot-data/quick-spring-boot-data-arango/quick-spring-boot-data-arango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-spring-boot-data/quick-spring-boot-data-hibernate/quick-spring-boot-data-hibernate.iml" filepath="$PROJECT_DIR$/quick-spring-boot-data/quick-spring-boot-data-hibernate/quick-spring-boot-data-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-spring-boot-dto/quick-spring-boot-dto.iml" filepath="$PROJECT_DIR$/quick-spring-boot-dto/quick-spring-boot-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-spring-boot-excel-service/quick-spring-boot-excel-service.iml" filepath="$PROJECT_DIR$/quick-spring-boot-excel-service/quick-spring-boot-excel-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-spring-boot-file-service/quick-spring-boot-file-service.iml" filepath="$PROJECT_DIR$/quick-spring-boot-file-service/quick-spring-boot-file-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-spring-boot-rest-service/quick-spring-boot-rest-service.iml" filepath="$PROJECT_DIR$/quick-spring-boot-rest-service/quick-spring-boot-rest-service.iml" />
+    </modules>
+  </component>
+</project>

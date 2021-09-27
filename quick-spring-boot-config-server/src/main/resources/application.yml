@@ -1,0 +1,19 @@
+#server:
+#  port: 8888
+#  
+#spring:
+#  profiles:
+#    active: default
+#  datasource:
+#    type: com.zaxxer.hikari.HikariDataSource
+#    hikari:
+#      connection-test-query: SELECT 1
+##spring.datasource.hikari.connection-test-query=SELECT 1
+## ===============================
+## DATABASE
+## ===============================
+#    driverClassName: net.sourceforge.jtds.jdbc.Driver
+#    driver-class-name: net.sourceforge.jtds.jdbc.Driver
+#    url: jdbc:jtds:sqlserver://localhost:1433/cloud_configs
+#    username: sa
+#    password: Ali's

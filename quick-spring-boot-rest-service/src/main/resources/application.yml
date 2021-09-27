@@ -1,0 +1,23 @@
+spring:
+  profiles:
+    active: default
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+# ===============================
+# DATABASE
+# ===============================
+    driver-class-name: net.sourceforge.jtds.jdbc.Driver
+    url: jdbc:jtds:sqlserver://tran-vmware-pc:1433/bank;instance=SQLEXPRESS
+    username: sa
+    password: 12345
+# ===============================
+# JPA / HIBERNATE
+# ===============================
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.SQLServerDialect
+        current_session_context_class: org.springframework.orm.hibernate5.SpringSessionContext

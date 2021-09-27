@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/arango-example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/arango-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/hibernate-example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/hibernate-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-dynamic-reports" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-dynamic-reports/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-data/quick-spring-boot-data-arango" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-data/quick-spring-boot-data-arango/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-data/quick-spring-boot-data-hibernate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-data/quick-spring-boot-data-hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-excel-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-excel-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-file-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-file-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-rest-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quick-spring-boot-rest-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
