@@ -1,0 +1,5 @@
+# Custom
+**/build/
+**/target/
+# Local environment
+.env
